@@ -1,0 +1,7 @@
+# Python 3 binaries
+__pycache__/
+*.pyc
+
+# other
+.DS_Store
+~$*
