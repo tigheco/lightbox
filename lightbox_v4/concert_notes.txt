@@ -1,0 +1,6 @@
+high volume sensitivity near to full volume, exponentially decreasing after ~80% for good crowd background noise suppression (low pass filter bode plot)
+preliminary tuning has two knobs:
+- cutoff volume adjustment
+- decay slope adjustment
+save visualization styles as functions for easy mode switching
+	embedded switch statements for switching between styles with button(s)
